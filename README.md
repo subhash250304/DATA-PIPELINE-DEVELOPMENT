@@ -2,7 +2,7 @@
 campany:codtech it solutions 
 name:sunkenapllay subhash
 Intern ID :CT06DF414
-domain:artifical intelligence 
+domain:data science
 duration:45 days 
 CODTECH AI Internship Tasks: A GitHub Repository Overview
 description : Data Preprocessing Pipeline (ETL)
