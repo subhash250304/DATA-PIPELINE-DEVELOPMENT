@@ -4,6 +4,7 @@ name:sunkenapllay subhash
 Intern ID :CT06DF414
 domain:data science
 duration:45 days 
+mentor:neela santhosh
 CODTECH AI Internship Tasks: A GitHub Repository Overview
 description : Data Preprocessing Pipeline (ETL)
 TASK 1: Data Preprocessing Pipeline (ETL)
